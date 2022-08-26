@@ -1,0 +1,9 @@
+*.csv
+gitignore
+*.pdf
+.ipynb_checkpoints/gitignore-checkpoint
+.DS_Store
+Mostrar gitignore.txt
+Untitled.ipynb
+*-checkpoint*
+*.exe
